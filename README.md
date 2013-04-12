@@ -1,4 +1,4 @@
 UrlRequest
 ==========
 
-java library for networking use urlconnection
+a java library for UrlConnection
